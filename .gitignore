@@ -1,3 +1,4 @@
 *.swp
 mobile/.ipynb_checkpoints/*
 *.csv
+*.h5
